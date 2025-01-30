@@ -66,6 +66,7 @@
       "idioms": "0.0.2",
       "image-downloader": "^4.3.0",
       "jimp": "^0.16.13",
+      "jsdom": "^22.1.0",
       "knights-canvas": "^1.3.7-a",
       "listen": "^1.0.1",
       "lodash": "^4.17.21",
